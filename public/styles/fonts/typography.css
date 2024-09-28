@@ -1,0 +1,41 @@
+.headline-h1 {
+  font-size: 48px !important;
+  /* 48px */
+  font-weight: bold;
+  line-height: 64px;
+  /* 64px */
+}
+
+.display-h2 {
+  font-size: 48px;
+  /* 48px */
+  font-weight: bold;
+}
+
+.headline-h2 {
+  font-size: 36px;
+  /* 36px */
+  font-weight: 600;
+  line-height: 25px;
+  /* 52px */
+}
+
+.display-h3 {
+  font-size: 36px;
+  /* 36px */
+  font-weight: bold;
+}
+
+.headline-h3 {
+  font-size: 32px;
+  /* 32px */
+  font-weight: bold;
+  line-height: 38px;
+  /* 38px */
+}
+
+.context-text {
+  font-weight: 300;
+  font-size: larger;
+  line-height: 2;
+}

@@ -1,0 +1,26 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Manrope';
+    font-weight: medium;
+    src: url('./fonts/Manrope-VariableFont_wght.ttf')
+      format('truetype');
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-family: 'Manrope';
+    font-weight: normal;
+    src: url('./fonts/Manrope-VariableFont_wght.ttf')
+      format('truetype');
+  }
+  
+  @mixin font-base {
+    font-family: 'Manrope', sans-serif !important;
+    font-style: normal;
+    line-height: normal;
+  }
+  
+  body {
+    font-family: 'Manrope', sans-serif;
+  }
+  
