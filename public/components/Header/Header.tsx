@@ -13,13 +13,13 @@ const Header: React.FC<HeaderProps> = ({ logo }) => {
           {/* <img src={logo} alt="Logo" className="logo" /> */}
         </div>
         <nav className="nav-links">
-          <Link href="/about" className="nav-link">
+          {/* <Link href="/about" className="nav-link">
             About
           </Link>
           <Link href="/projects" className="nav-link">
             Projects
-          </Link>
-          <Link href="/blog" className="nav-link">
+          </Link> */}
+          <Link href="https://medium.com/@sanket467" className="nav-link" target="external">
             Blog
           </Link>
         </nav>
