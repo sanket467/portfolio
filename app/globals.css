@@ -20,14 +20,14 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
+  color: #40433a;
   font-family: 'Manrope', sans-serif;
   background: linear-gradient(
       to bottom,
       transparent,
-      rgb(var(--background-end-rgb))
+      '#f9f9f9'
     )
-    rgb(var(--background-start-rgb));
+    '#f9f9f9';
 }
 
 @layer utilities {
