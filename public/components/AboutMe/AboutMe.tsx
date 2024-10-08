@@ -40,7 +40,7 @@ const AboutMe: React.FC = () => {
             <div className="headline-h1">Sanket Shivam</div>
             <div className="subtitle-h1">🚀 SDE-2 at McKinsey & Company</div>
             <div className="subtitle-h1">
-              📚 A passionate Engineer, likes reading science and geopolitics
+              📚 A passionate Engineer who likes reading, science and geopolitics
             </div>
           </div>
           <div className="social-media-icons">

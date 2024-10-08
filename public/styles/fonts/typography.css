@@ -34,11 +34,23 @@
   /* 38px */
 }
 
+.display-h4 {
+  font-size: 18px;
+  font-weight: light;
+}
+
 .subtitle-h1 {
   font-size: 21px;
   /* 32px */
   font-weight: lighter;
   line-height: 38px;
+  /* 38px */
+}
+
+.subtitle-h2 {
+  font-size: 15px;
+  /* 32px */
+  font-weight: lighter;
   /* 38px */
 }
 
