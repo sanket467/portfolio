@@ -3,12 +3,20 @@
 .about-me {
   display: flex;
   justify-content: center;
-  align-content: center;
-  height: 100%;
+  align-items: center; /* Center vertically */
+  height: 100vh; /* Full viewport height */
   padding: 2rem;
   border-radius: 8px;
   box-sizing: border-box;
-  /* Ensures padding is included in height calculation */
+}
+
+.center-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
 }
 
 .profile-picture-container {
@@ -19,10 +27,6 @@
   margin: 2rem 20rem 2rem 20rem;
 }
 
-.intro {
-  justify-content: center;
-  align-content: center;
-}
 
 .social-media-icons {
   display: flex;

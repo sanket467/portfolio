@@ -1,8 +1,8 @@
 .headline-h1 {
-  font-size: 48px !important;
+  font-size: 56px !important;
   /* 48px */
   font-weight: bold;
-  line-height: 64px;
+  line-height: 100px;
   /* 64px */
 }
 
@@ -30,6 +30,14 @@
   font-size: 32px;
   /* 32px */
   font-weight: bold;
+  line-height: 38px;
+  /* 38px */
+}
+
+.subtitle-h1 {
+  font-size: 21px;
+  /* 32px */
+  font-weight: lighter;
   line-height: 38px;
   /* 38px */
 }
