@@ -43,7 +43,7 @@ const Experience: React.FC = () => {
                   </TimelineSeparator>
                   <TimelineContent>
                   <div className="display-h4 experience-text">Engineer - 1</div>
-                  <div className="subtitle-h2 experience-text">Dec, 2022 - June, 2023</div>
+                  <div className="subtitle-h2 experience-text">Dec, 2022 - June, 2024</div>
                   </TimelineContent>
                 </TimelineItem>
               </Timeline>
